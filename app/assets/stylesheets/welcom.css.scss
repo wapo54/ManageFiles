@@ -1,0 +1,11 @@
+/*
+ *= require_self
+ */
+// Graphical variables
+@import "config/variables";
+@import "config/bootstrap_variables";
+// Your CSS
+@import "normalize.scss";
+@import "global.scss";
+@import "docs.scss";
+@import "welcome.scss";
