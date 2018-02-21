@@ -17,7 +17,7 @@ class ApplicationController < ActionController::Base
     def find_doc
     end
     def doc_params
-    end
+  end
 
     end
 
